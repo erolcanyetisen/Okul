@@ -8,4 +8,4 @@ HTML CSS ile kodlanmıştır.
 
 <h2>Ekran Görüntüsü </h2> 
 
-! [](Animation.gif.gif)
+! [](Animation.gif)
